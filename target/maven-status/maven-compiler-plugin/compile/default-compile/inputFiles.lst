@@ -1,0 +1,17 @@
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\service\VendedorService.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\repository\VendedorRepository.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\service\UserDetailsServiceImpl.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\repository\UsuarioRepository.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\controller\AuthController.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\model\Vendedor.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\config\JwtAuthFilter.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\model\LoginResponse.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\config\DataLoader.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\HealthController.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\PremiaoApplication.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\service\JwtService.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\config\CorsConfig.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\config\SecurityConfig.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\model\Usuario.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\model\LoginRequest.java
+C:\Users\Administrator\premiao-crm-frontend\premiao-crm-backend\src\main\java\com\premiao\crm\controller\VendedorController.java
